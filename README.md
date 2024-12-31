@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+ADD path to your filter file in `app/api/filter/route.ts`
+
+```
+const PATH_TO_FILTER_FILE = 'C:\\Users\\<user>\\Documents\\My Games\\Path of Exile 2\\NeverSinks Litefilter.filter';
+```
+
 First, run the development server:
 
 ```bash
